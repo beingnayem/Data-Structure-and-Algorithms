@@ -40,10 +40,6 @@ I created this repository as a lifelong reference for myself and others who wish
 - Access ready-to-use DSA implementations.
 - Explore solutions to common problems in DSA and competitive programming.
 
-## License
-This repository is open-source under the [MIT License](./LICENSE). Feel free to use the code, but please give appropriate credit.
-
----
 
 Thank you for visiting this repository! Let’s learn and grow together.
 
